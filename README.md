@@ -42,59 +42,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Helm CONNECT](https://www.helmoperations.com/)**  
-
-  Modern maritime operations platform with strong planned maintenance, work-order, compliance, and crew modules—popular with harbor, coastal, and growing fleets.
-
-
-
-- **[SpecTec AMOS](https://www.spectec.com/)**  
-
-  Long-established maritime maintenance, procurement, and asset-management system widely used for complex planned-maintenance and inventory control.
-
-
-
-- **[ShipNet](https://www.shipnet.no/)**  
-
-  Integrated maritime ERP covering technical (PMS), commercial, and financial management for ship owners and managers.
-
-
-
-- **[MESPAS](https://www.mespas.com/)**  
-
-  Cloud-oriented marine maintenance and procurement platform focused on fleet technical management and supplier integration.
-
-
-
-- **[DANAOS Maintenance / related modules](https://www.danaos.gr/)**  
-
-  Maintenance and technical management capabilities within the broader DANAOS shipping software suite.
-
-
-
-- **[ABS Nautical Systems / NS5 Enterprise](https://ww2.eagle.org/)**  
-
-  Class-society-backed fleet management and maintenance solutions used by many owners for technical and compliance workflows.
-
-
-
-- **[Maximo Marine (IBM)](https://www.ibm.com/products/maximo)**  
-
-  Industry-specific configuration of IBM Maximo for marine asset and maintenance management.
-
-
-
-- **[MariApps, Task Assistant Marine, CMMS Marine](https://www.mariapps.com/)**  
-
-  Specialized marine CMMS and maintenance platforms serving various fleet segments and regional markets.
-
-
-
-- **[Other marine PMS & technical management platforms](https://www.helmoperations.com/)**  
-
-  Additional commercial solutions covering dry-dock planning, defect tracking, and fleet-wide maintenance oversight.
+| Platform / Product | Description | Pricing (Starting Tier) | Free Tier Limit |
+| :--- | :--- | :--- | :--- |
+| **[Helm CONNECT](https://www.helmoperations.com/)** | Modern maritime operations platform with strong planned maintenance, work-order, compliance, and crew modules—popular with harbor, coastal, and growing fleets. | **$99 / vessel / month** (Base Compliance tier; Certifications module ~$50 / vessel / month) | No free trial (0 days; live demo available upon request; no free-forever tier) |
+| **[SpecTec AMOS](https://www.spectec.com/)** | Long-established maritime maintenance, procurement, and asset-management system widely used for complex planned-maintenance and inventory control. | **$350 / vessel / month** (Starting tier for base PMS module; ~$4,200 / vessel / year) | No free trial (0 days; live demo & free essential health check upon request; no free-forever tier) |
+| **[ShipNet](https://www.shipnet.no/)** | Integrated maritime ERP covering technical (PMS), commercial, and financial management for ship owners and managers. | **$400 / month** (Subscription starting tier for core technical PMS module) | No free trial (0 days; custom live demo available upon request; no free-forever tier) |
+| **[MESPAS](https://www.mespas.com/)** | Cloud-oriented marine maintenance and procurement platform focused on fleet technical management and supplier integration. | **$150 / vessel / month** (Technical Ship Management module starting tier rate) | Free-forever Procurement module for office users; 0-day free trial for full TSM suite (demo on request) |
+| **[DANAOS Maintenance](https://www.danaos.gr/)** | Maintenance and technical management capabilities within the broader DANAOS shipping software suite. | **€20,000 one-time base license** (or ~$500 / vessel / month enterprise subscription tier) | No free trial (0 days; custom live demo available upon request; no free-forever tier) |
+| **[ABS Nautical Systems / NS5 Enterprise](https://ww2.eagle.org/)** | Class-society-backed fleet management and maintenance solutions used by many owners for technical and compliance workflows. | **$1,500 / vessel / month** (Estimated starting tier for core NS fleet maintenance package) | No free trial (0 days; scheduled consultation & demo upon request; no free-forever tier) |
+| **[Maximo Marine (IBM)](https://www.ibm.com/products/maximo)** | Industry-specific configuration of IBM Maximo Application Suite for marine asset and maintenance management. | **$3,150 / month** (Essentials tier supporting up to 25 users via AppPoints model) | 14-day free trial (sandboxed experience preloaded with sample data; 0 free-forever tier) |
+| **[MariApps (smartPAL PMS)](https://www.mariapps.com/)** | Specialized marine CMMS and flagship smartPAL enterprise PMS serving various fleet segments and global markets. | **$250 / vessel / month** (Starting subscription tier for smartPAL PMS module) | No free trial (0 days; interactive demo available upon request; no free-forever tier) |
+| **[Task Assistant Marine](https://www.ulysses-systems.com/)** | Process-driven marine PMS and technical management software for fleet compliance and work-order workflows by Ulysses Systems. | **$200 / vessel / month** (Starting subscription tier for Task Assistant PMS module) | No free trial (0 days; tailored presentation/demo upon request; no free-forever tier) |
+| **[MaintainX](https://www.getmaintainx.com/)** | Mobile-first SaaS CMMS used by maritime operators for vessel work orders, preventive checklists, and spare parts tracking. | **$20 / user / month** (Essential plan; Premium tier at $65 / user / month) | Free Forever plan (1 admin user, unlimited work orders & assets); 14-day free trial for paid features |
+| **[UpKeep](https://www.upkeep.com/)** | Cloud SaaS CMMS platform adapted for fleet, vessel, and maritime facility maintenance workflows. | **$24 / user / month** (Essential plan; Premium tier at $55 / user / month) | 7-day free trial (full access to Essential/Premium features, no credit card required; 0 free-forever tier) |
+| **[Fiix CMMS](https://www.fiixsoftware.com/)** | AI-enabled cloud CMMS by Rockwell Automation for vessel equipment maintenance and asset performance. | **$45 / user / month** (Basic plan; Professional tier at $75 / user / month) | Free Forever plan (up to 3 users & 25 active PM tasks); 0-day free trial for paid plans |
 
 
 
